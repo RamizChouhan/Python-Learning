@@ -18,7 +18,7 @@ print("count 5 :",tple.count(5)) #Kisi element ki occurrence count karta hai.
 
 #tuple built in functions
 print("------tuple Functions----------")
-print("tuple length :",len(tple))
+print("tuple length :",len(tple)) 
 
 print("tuple maximum :",max(tple))
 
